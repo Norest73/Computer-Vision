@@ -1,3 +1,3 @@
-Dacon competition to object detection in Aerial Images
+Dacon competition to object detection in Aerial Images.
 
 ![dacon](./dacon.jpg)
